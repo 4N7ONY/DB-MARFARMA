@@ -182,3 +182,9 @@ DB-MARFARMA/
 ## Autor y Créditos
 * **Proyecto:** Integrador Botica Marfarma — Desafío DataSalud
 * **Entorno:** SQL Server Management Studio & T-SQL
+* * **Autores:**
+  * Aguilar Cruz, Alex Gustavo
+  * Fernandez Vigo Sergio Esteban
+  * Ishpilco Quispe, Esau
+  * Malca Chilon, Antony
+  * Vasquez Valdez Jaime Farid
