@@ -18,7 +18,7 @@ El sistema está diseñado para resolver la necesidad de consolidación, integri
 
 ---
 
-## 📐 Modelo Dimensional (Esquema Estrella - Metodología Kimball)
+## Modelo Dimensional (Esquema Estrella - Metodología Kimball)
 
 El repositorio implementa un modelo en estrella optimizado para consultas analíticas de alto rendimiento, análisis de morbilidad por grupo etario y métricas financieras de venta y servicios (e.g., transacciones de Agente BCP vs. Medicamentos).
 
@@ -123,7 +123,7 @@ El diseño incorpora medidas de seguridad lógica exigidas por la **Ley N.º 297
 
 ---
 
-## ⚙️ Componentes de Lógica de Negocio (T-SQL)
+## Componentes de Lógica de Negocio (T-SQL)
 
 ### 1. Funciones Escalares
 * **`fn_EsGrupoRiesgo(@GrupoEtario)`**: Evalúa y retorna un valor booleano (`1` o `0`) determinando si el cliente pertenece a una población vulnerable (`Niño (0-11)` o `Adulto Mayor (60+)`), facilitando el análisis epidemiológico y focalización de programas de salud.
