@@ -1,4 +1,4 @@
-# 🏥 Botica MARFARMA — Sistema de Gestión & Data Warehouse (Desafío DataSalud)
+# Botica MARFARMA — Sistema de Gestión & Data Warehouse (Desafío DataSalud)
 
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-2019%2B-CC292B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![T-SQL](https://img.shields.io/badge/T--SQL-Database%20Engine-0078D4?style=for-the-badge)
@@ -7,7 +7,7 @@
 
 ---
 
-## 📌 Descripción del Proyecto
+## Descripción del Proyecto
 
 Este repositorio contiene la arquitectura, diseño dimensional y scripts de implementación para la base de datos de **Botica MARFARMA**, desarrollado en el marco del **Desafío DataSalud** como proyecto integrador.
 
@@ -61,7 +61,7 @@ El repositorio implementa un modelo en estrella optimizado para consultas analí
 
 ---
 
-## 🗄️ Diccionario de Datos
+## Diccionario de Datos
 
 ### 1. Dimensiones
 
@@ -110,7 +110,7 @@ El repositorio implementa un modelo en estrella optimizado para consultas analí
 
 ---
 
-## 🔒 Seguridad y Cumplimiento Normativo (Ley N.º 29733)
+## Seguridad y Cumplimiento Normativo (Ley N.º 29733)
 
 El diseño incorpora medidas de seguridad lógica exigidas por la **Ley N.º 29733** (Ley de Protección de Datos Personales en el Perú) y las directivas del sector salud:
 
@@ -138,7 +138,7 @@ El diseño incorpora medidas de seguridad lógica exigidas por la **Ley N.º 297
 
 ---
 
-## 🚀 Despliegue e Instalación
+## Despliegue e Instalación
 
 ### Requisitos Previos
 * **Motor de Base de Datos:** Microsoft SQL Server 2016 o superior / Azure SQL Database.
@@ -167,7 +167,7 @@ El diseño incorpora medidas de seguridad lógica exigidas por la **Ley N.º 297
 
 ---
 
-## 📂 Estructura del Repositorio
+## Estructura del Repositorio
 
 ```text
 DB-MARFARMA/
@@ -179,6 +179,6 @@ DB-MARFARMA/
 
 ---
 
-## 👨‍💻 Autor y Créditos
+## Autor y Créditos
 * **Proyecto:** Integrador Botica Marfarma — Desafío DataSalud
 * **Entorno:** SQL Server Management Studio & T-SQL
