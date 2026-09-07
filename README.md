@@ -176,6 +176,8 @@ DB-MARFARMA/
 ├── SQLQuery1.sql       # Script T-SQL integral (DDL, Roles, Funciones, SPs, Triggers)
 └── README.md           # Documentación técnica del proyecto
 ```
+## Copia de seguridad Google Drive
+https://drive.google.com/drive/folders/1ZiCQh6aTuZKZkDBRMcUI7FBxn78Wgdta?usp=sharing
 
 ---
 
